@@ -1,3 +1,5 @@
+//HER 3 TIPDE YAZILSIN TAPSIRIQLAR (return , get , normal)
+
 /*
 Tələbənin daxil etdiyi bala görə ABCDEF
 qiymətlərindən hansını aldığını
@@ -8,4 +10,12 @@ müəyyənləşdirən proqram yazın. 91-100
 və 100-dən kiçik olmalıdır. method istifade ederek hell edin
 */
 
+// Dartda iki ədədi arqument kimi qəbul edən və onların cəmini qaytaran “ add “ adlı funksiya yazın. 
 
+// Ele bir proqram yazin ki, istifadeci ucbucagin hundurluyunu (h) ve hundurluyune perpendikulyar olan terefi daxil (b) etsin.  Sonda program üçbucağın sahəsini tapsin. 
+// Qeyd: Ucbucagin düsturu: 1/2x(bxh)
+
+
+
+
+// maksimum calisin basqa yere baxmadan yazin
